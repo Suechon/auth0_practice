@@ -2,7 +2,7 @@
   <div>
     <div class="h-screen w-screen flex justify-center items-center">
       <div class="h-64 grid grid-rows-3 grid-flow-col gap-4">
-        <p class="text-6xl font-black text-[#5a303b]">Public Page</p>
+        <p class="text-6xl font-black text-[#5a303b]">Private Page</p>
 
         <Navigation />
       </div>
