@@ -1,0 +1,17 @@
+/.metadata/
+
+
+# Eclipse
+api/.project
+api/.classpath
+api/.settings
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+api/target
+api/src/main/resources/application.properties
